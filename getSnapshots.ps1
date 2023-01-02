@@ -93,7 +93,7 @@ if ($snapshotList.Length -ne 0) {
                 $snapshotCreator = $snapshotCreator.Replace("\","\\")
             }
             else { 
-                Write-Host ("VM: " + $vm.VM + ". Snapshot '" + $vm + "' created on " + $vm.Created.DateTime + ". This event is not in vCenter events database")
+                Write-Host ("VM: " + $vm.VM + ". Snapshot '" + $vm + "' created on " + $vm.Created.DateTime + ". Can not find the event in vCenter database")
                 $snapshotCreator = "User not found."
             }
         }
