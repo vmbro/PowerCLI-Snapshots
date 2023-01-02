@@ -16,13 +16,22 @@ You need following software and versions to use scripts.
 * Slack
 ```
 ## Example
+Example-1
 
+![image-4](https://user-images.githubusercontent.com/6716206/210256755-6abbf9f1-4233-426c-86a2-3d31a7b808d3.png)
 
+Example-2
+
+![image-5](https://user-images.githubusercontent.com/6716206/210256762-d6cf57be-7934-4fe7-9f9c-a9cbff9e6e74.png)
+
+Example-3
+
+![image-7](https://user-images.githubusercontent.com/6716206/210256769-3f307509-9872-4631-b672-6de583609eb4.png)
 
 
 ## More details about scripts
 
-https://vmbro.com/powercli-ile-esxi-toplu-ntp-guncelleme-ve-slack-bildirimi/ - Related Article
+https://vmbro.com/vmware-powercli-ve-slack-alarmlari-1-snapshots/ - Related Article
 
 
 
