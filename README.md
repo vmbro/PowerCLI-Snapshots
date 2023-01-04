@@ -31,8 +31,7 @@ Example-3
 
 ## More details about scripts
 
-https://vmbro.com/vmware-powercli-ve-slack-alarmlari-1-snapshots/ - Related Article
-
+You can visit my blog for [snapshot alarms on Slack with PowerCLI](https://vmbro.com/vmware-powercli-ve-slack-alarmlari-1-snapshots/) and more detailed information.
 
 
 ## License
